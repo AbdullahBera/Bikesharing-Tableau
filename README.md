@@ -4,7 +4,7 @@
 
 -In this analysis I delve into data I retrieve for August 2019 from the Citi bike database. With this analysis using the jupyter notebook I first inspect and format the raw data. I then transfer the data to Tableau where I create visualizations from the data. The Tableau visualizations intend to impress an angel investor to invest in a business mimicking the Citi bike business model in the city of Des Moines.
 
-##Results 
+## Results 
 
 In this section of the analysis I go over the results of each of the visualizations I made. 
 
