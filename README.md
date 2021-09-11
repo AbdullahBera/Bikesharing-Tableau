@@ -2,7 +2,7 @@
 
 ## Overview of this Analysis 
 
-- In this analysis I delve into data I retrieve for August 2019 from the Citi bike database. With this analysis using the jupyter notebook I first inspect and format the raw data. I then transfer the data to Tableau where I create visualizations from the data. The Tableau visualizations intend to impress an angel investor to invest in a business mimicking the Citi bike business model in the city of Des Moines.
+- In this analysis I delve into the Citi bike database data I retrieve for August 2019. With this analysis using jupyter notebook I first inspect and format the raw data. I then transfer the data to Tableau where I create visualizations from the data. The Tableau visualizations intend to impress an angel investor to invest in a business in the city of Des Moines; mimicking the Citi bike business model.
 
 ## Results 
 
@@ -64,5 +64,5 @@ In this section of the analysis I go over the results of each of the visualizati
 Overall from the 2,344,224 number of rides I can conclude that male subscribers use the Citi bike the most for less than an hour on each trip. Furthermore, the peak hours for these users are between 7 AM-9 AM and 5 PM-7 PM. From these results, we can set tentative targets until we have enough data to set true targets. However, we can set key performance indicators to assess our progress; this can be customer retention, number of hours used, and referral signups. I would suggest making a worksheet that draws the starting and ending location of the bikes used. This data can be used to put advertisements on the most frequently used routes. The second worksheet I will recommend is to draw a map of the places where bikes get pilled the most towards the end of the day.
 
 
-
+The link of my Tableau Public space: 
 [https://public.tableau.com/app/profile/abdullah.bera.kucuk/viz/Challenge_16311651986910/StoryforAnalysis?publish=yes](https://public.tableau.com/app/profile/abdullah.bera.kucuk/viz/Challenge_16311651986910/StoryforAnalysis?publish=yes)
